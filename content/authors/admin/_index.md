@@ -3,7 +3,7 @@
 title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
+first_name: Polina
 last_name: Wu
 
 # Status emoji
