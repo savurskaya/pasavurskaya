@@ -1,34 +1,34 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Полина Савурская
 
 # Full name (for SEO)
-first_name: Polina
-last_name: Wu
+first_name: Полина
+last_name: Савурская
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💜
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN University
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Робкая тыковка из Магнитогорска, взрощенная с любовью и заботой. Могу дышать только воздухом, наполненным парами свинца и сероводорода.Именно это наполняет меня как духовной, так и физической силой. Учусь на направлении бизнес-информатика ради диплома экономиста. Уехала в Москву за лучшей жизнью, вот только уезжать надо было из России.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Профессиональная кибер-слежка
+  - Люблю готовить 
+  - Искать информацию о бывших
 
 # Education to show in About widget
 education:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Робкая тыковка из Магнитогорска, взрощенная с любовью и заботой. Могу дышать только воздухом, наполненным парами свинца и сероводорода.Именно это наполняет меня как духовной, так и физической силой. Учусь на направлении бизнес-информатика ради диплома экономиста. Уехала в Москву за лучшей жизнью, вот только уезжать надо было из России.
 {style="text-align: justify;"}
