@@ -3,7 +3,7 @@ title: Я флорист
 summary: Собираю цветочные композиции.
 tags:
   - Deep Learning
-date: '2023-03-17T00:00:00Z'
+date: '2023-03-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
